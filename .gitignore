@@ -1,0 +1,6 @@
+../JavaDraw/out/
+*.txt
+*.javadraw
+.idea/
+*.iml
+META-INF/
